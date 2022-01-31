@@ -11,3 +11,6 @@ piston="*"
 piston2d-graphics="*"
 pistoncore-glutin_window="*"
 piston2d-opengl_graphics="*"
+thiserror="1.0"
+
+chrono = "0.4"
